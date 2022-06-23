@@ -1,0 +1,48 @@
+* {
+   padding: 0.1vh;
+   margin: 2vh;
+   background-image: url(img.FLEXI.jpg)
+   background-position: center;
+}
+
+.sales-point {
+    padding: 12vh 0;
+    text-align: center;
+    margin: 0;
+    display: flex;
+    background: red;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.sales {
+    padding: 12vh 0;
+    text-align: center;
+    margin: 0;
+    display: flex;
+    background: rgb(57, 243, 20);
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.software {
+    padding: 12vh 0;
+    text-align: center;
+    margin: 0;
+    display: flex;
+    background: rgb(78, 30, 253);
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.hero {
+    height: 100vh;
+    padding: 1em;
+    color: black;
+    background-color: rgba(250, 244, 244, 0.973);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
